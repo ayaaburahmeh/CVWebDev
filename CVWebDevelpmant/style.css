@@ -1,0 +1,28 @@
+body{
+    background-color:#e3d8f1 ;
+}
+table{
+    width: 100%;
+    th{
+        background-color:  dabeca;
+    }
+
+    td{
+        text-align: center;
+        background-color: #F1E7E7;
+    }
+}
+h1{
+    background-color: dabeca;
+    
+        transition: transform 0.3s linear;
+}
+h1:hover{
+transform: scale(1.02);
+
+}
+.gradesdiff{
+    background-color: rgb(220, 195, 243);
+}
+
+
